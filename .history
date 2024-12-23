@@ -1,0 +1,102 @@
+#+1712904129
+ls -la
+#+1712904134
+cd www
+#+1712904135
+ls -la
+#+1712904139
+cd prod
+#+1712904141
+ls -la
+#+1712904145
+cd corporate
+#+1712904148
+ls -la
+#+1712904186
+cd /wp-content/upgrade/wordpress-6.5.2-ja/wordpress
+#+1712904202
+cd /wp-content/upgrade/wordpress-6.5.2-ja/wordpress
+#+1712904212
+cd wp-content/upgrade/wordpress-6.5.2-ja/wordpress
+#+1712904214
+ls -la
+#+1712904346
+cd wp-includes
+#+1712904347
+ls -la
+#+1712904349
+chmod -R 755
+#+1712904373
+cd ..
+#+1712904399
+chmod -R 755 wp-includes
+#+1726314723
+cd www
+#+1726314726
+cd prod
+#+1726314727
+ls -la
+#+1726314733
+cd coporate_new
+#+1726314737
+cd croporate_new
+#+1726314743
+cd corporate_new
+#+1726314745
+ls -la
+#+1726314748
+unzip corporate.zip
+#+1726470359
+cd www/prod
+#+1726470361
+ls -la
+#+1726470366
+cd bk_corporate_new/
+#+1726470369
+ls -la
+#+1726470406
+unzip corporate.zip
+#+1726470440
+ls -la
+#+1726470444
+cd ..
+#+1726470449
+ls -la
+#+1726470453
+cd bk_corporate_new/
+#+1726470458
+ls -la
+#+1728266276
+clear
+#+1728266277
+ls -la
+#+1728266280
+cd www
+#+1728266282
+ls -la
+#+1728266286
+cd prod
+#+1728266288
+ls -la
+#+1728266327
+rm -rf corporate
+#+1728266337
+rm -rf corporate_new/
+#+1728266368
+cd ..
+#+1728266371
+cd stg
+#+1728266373
+ls -la
+#+1728266381
+rm -rf corporate
+#+1728266383
+ls -la
+#+1728266409
+cd ..
+#+1728266411
+ls -la
+#+1728266415
+cd ..
+#+1728266417
+ls -la
