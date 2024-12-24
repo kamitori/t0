@@ -20,7 +20,7 @@ on:
     # The branches below must be a subset of the branches above
     branches: [ "main" ]
   schedule:
-    - cron: '17 17 * * 3'
+    - cron: '43 18 * * 4'
 
 permissions:
   contents: read
@@ -44,7 +44,7 @@ jobs:
         with:
           # Check https://github.com/codacy/codacy-analysis-cli#project-token to get your project token from your Codacy repository
           # You can also omit the token and run the tools that support default configurations
-          project-token: ${{ secrets.CODACY_PROJECT_TOKEN }}
+          project-token: 'NzxxpmYNj8jAkHVVM29E'
           verbose: true
           output: results.sarif
           format: sarif
