@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="ja">
+<head>
+
+	<!-- Google Tag Manager -->
+	<script>
+		(function(w, d, s, l, i) {
+			w[l] = w[l] || [];
+			w[l].push({
+				'gtm.start': new Date().getTime(),
+				event: 'gtm.js'
+			});
+			var f = d.getElementsByTagName(s)[0],
+					j = d.createElement(s),
+					dl = l != 'dataLayer' ? '&l=' + l : '';
+			j.async = true;
+			j.src =
+				'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+			f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-WTVFM9T');
+	</script>
+	<!-- End Google Tag Manager -->
+	
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="">
+<title>コスパ部門 | プラズマローゲンサプリメントランキング</title>
+<link href="css/reset.css" rel="stylesheet">
+<link href="css/drawer.min.css" rel="stylesheet">
+<link href="css/style.css" rel="stylesheet">
+<link href="css/layout.css" rel="stylesheet">
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="js/slidebars.min.js"></script>
+
+</head>
+<body id="top">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WTVFM9T" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	
+<div canvas="container">
+<!--#include virtual="inc/header.html" -->
+<div id="wrapper">
+<div class="wrap_inner clearfix">
+  <div class="content_area pt30">
+    <div id="content" class="kaso">
+      <div class="kaso_inner">
+        <div class="h2_box">
+          <h2 class="content_ttl">コスパ部門ランキング</h2>
+        </div>
+        <hr class="line">
+        </hr>
+        <p class="ranking_intro">認知症の予防・対策・緩和を目指すためには、プラズマローゲンやDHAなどのサプリ摂取の継続が大切です。<br>
+          効果と配合量を考えた、総合的なコストパフォーマンスを考えて購入に値する商品をしっかり見極めていきましょう！<br>
+          コスパ（配合量・効果を考えた総合コストパフォーマンス）に優れたTOP3商品をご紹介します。</p>
+        <hr class="line">
+        </hr>
+        <section>
+          <div class="h1-tbl-area cFix">
+              <figure class="t-c"><img src="img/thum/thum01.jpg"></figure>
+            <div class="h1-tbl-right">
+              <h4><img src="img/rank-icon-1.png" style="margin-bottom:5px;">　プラズマローゲンS</h4>
+              <p class="mt10 sp_taC"><a href="i01.html"><img src="img/btn-h.png"></a></p>
+              <p class="mt10 sp_taC"><a href="https://bandscorp.jp/lp/plasmalogen-s/1/pc/?argument=uefSmbeK&dmai=a5e2fa1f5ba1d6" target="_blank" 
+><img src="img/btn-o.png"></a></p>
+              <div class="h_tbl">
+                <p class="ranktxtbox">・プラズマローゲン抽出・製造に抽出した藤野医師との共同開発サプリ<br>
+                  ・世界的医学誌に掲載された他、認知症緩和に関するエビデンスも充実している<br>
+                  ・品質の確かなプラズマローゲンを1,000㎍配合（国内GMP認定工場で製造）<br>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="h1-tbl-area cFix">
+              <figure class="t-c"><img src="img/thum/thum03.jpg"></figure>
+            <div class="h1-tbl-right">
+              <h4><img src="img/rank-icon-2.png" style="margin-bottom:5px;">　プラズマローゲンEX</h4>
+              <p class="mt10 sp_taC"><a href="i03.html"><img src="img/btn-h.png"></a></p>
+              <p class="mt10 sp_taC"><a href="https://psolshop.web-store.jp/product-buy-form/plasmalogen_2018" target="_blank" 
+><img src="img/btn-o.png"></a></p>
+              <div class="h_tbl">
+                <p class="ranktxtbox">・国産鶏由来のプラズマローゲン500㎍配合（国内GMP認定工場で製造）<br>
+                  ・機能性が臨床試験で確認された機能性標示食品「認知機能の一部（記憶力）を維持する」<br>
+                  ・初回700円　定期便選択で毎月4,482円+税だから続けやすい</p>
+              </div>
+            </div>
+          </div>
+          <div class="h1-tbl-area cFix">
+              <figure class="t-c"><img src="img/thum/thum05.jpg"></figure>
+            <div class="h1-tbl-right">
+              <h4><img src="img/rank-icon-3.png" style="margin-bottom:5px;">　オメガエイド</h4>
+              <p class="mt10 sp_taC"><a href="i05.html"><img src="img/btn-h.png"></a></p>
+              <p class="mt10 sp_taC"><a href="https://www.suntory-kenko.com/contents/ad/40/lst/omg/id_a_2/" target="_blank" 
+><img src="img/btn-o.png"></a></p>
+              <div class="h_tbl">
+                <p class="ranktxtbox">・学習や記憶力向上に役立つと言われる注目成分「アラキドン酸」を配合<br>
+                  ・生活習慣病予防に欠かせないオメガ脂肪酸DHA ・EPAを高配合<br>
+                  ・定期購入で毎月5,400円+税のお手頃価格<br>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class=" review review-info">
+            <p>コスパ部門1位は「プラズマローゲンS」でした！<br>
+              お値段は<span class="marker">10,800円（税込）/1ヵ月当りと割高ですが、値段に相応、いいえそれ以上の品質・配合量・効果を特徴</span>とします。<br>
+              まず、プラズマローゲンSに使用されているプラズマローゲンはプラズマローゲンのパイオニアである藤野医師と共同開発したものです。<br>
+                さらに公式サイトでは、最安値8,640円（税込）の3ヶ月定期コースが新たにスタート！定期コースは初回１箱目が半額の5,400円（税込）となっているし、
+                いつでも解約できるので始めやすいですね。
+            <!--
+              認知症緩和に関するエビデンスが豊富で、国際的な医学誌に掲載されたのも、同プラズマローゲン！<br>
+              ホタテ由来のプラズマローゲンを中等度～高度の認知症患者を対象として使用した試験では、認知機能テストで改善が確認されています。<br>
+              さらに周辺症状の幻覚や抑うつ、不潔行為、妄想、尿失禁、睡眠障害などが高確率で消失・改善も認められているんです。<br>
+              ここまでの改善率は従来のサプリでも考えられないことでした。<br>
+              こうしたエビデンスに裏付けされたプラズマローゲンを配合した「プラズマローゲンS」は、医薬品レベルの実力を持つと話題となり300を超える医療機関で導入されています。<br>
+              商品製造は医薬品製造と遜色のない製造水準を持つ国内のGMP認定工場で行われていて、クオリティも万全です。<br>
+              配合量・品質・効果を総合的に考えれば、1ヵ月あたり10,800円の出費は決して高くはない買い物だと言えます。--></p>
+          </div>
+        </section>
+      </div>
+    </div>
+    <!--#include virtual="inc/side.html" -->
+    <!--#include virtual="inc/drw.html" -->
+    </div>
+</div>
+<!--#include virtual="inc/footer.html" -->
+
+</body>
+</html>

@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="ja">
+	<head>
+
+		<!-- Google Tag Manager -->
+		<script>
+			(function(w, d, s, l, i) {
+				w[l] = w[l] || [];
+				w[l].push({
+					'gtm.start': new Date().getTime(),
+					event: 'gtm.js'
+				});
+				var f = d.getElementsByTagName(s)[0],
+						j = d.createElement(s),
+						dl = l != 'dataLayer' ? '&l=' + l : '';
+				j.async = true;
+				j.src =
+					'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+				f.parentNode.insertBefore(j, f);
+			})(window, document, 'script', 'dataLayer', 'GTM-WTVFM9T');
+		</script>
+		<!-- End Google Tag Manager -->
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="">
+<title>認知度部門 | プラズマローゲンサプリメントランキング</title>
+<link href="css/reset.css" rel="stylesheet">
+<link href="css/drawer.min.css" rel="stylesheet">
+<link href="css/style.css" rel="stylesheet">
+<link href="css/layout.css" rel="stylesheet">
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="js/slidebars.min.js"></script>
+
+</head>
+<body id="top">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WTVFM9T" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+<div canvas="container">
+<!--#include virtual="inc/header.html" -->
+<div id="wrapper">
+<div class="wrap_inner clearfix">
+  <div class="content_area pt30">
+    <div id="content" class="kaso">
+      <div class="kaso_inner">
+        <div class="h2_box">
+          <h2 class="content_ttl">認知度部門ランキング</h2>
+        </div>
+        <hr class="line">
+        </hr>
+        <p class="ranking_intro">認知度が高いということは、商品の中身・成分・特徴・働きなどが広く知られている製品であることを意味します。<br>
+          認知が高いということは、内容が優れていて、費者から信頼を得ている商品の証とも言えるでしょう。<br>
+          ちなみに、知名度は「名前がどれだけ知られているか」なので、宣伝戦略などでいくらでもアップするため、中身が伴わないことも…。<br>
+          だからこそ、ここでは本サイト掲載商品を認知度ランキングにしてみました！</p>
+        <hr class="line">
+        </hr>
+        <section>
+          <div class="h1-tbl-area cFix">
+              <figure class="t-c"><img src="img/thum/thum05.jpg"></figure>
+            <div class="h1-tbl-right">
+              <h4><img src="img/rank-icon-1.png" style="margin-bottom:5px;"> オメガエイド</h4>
+              <p class="mt10 sp_taC"><a href="i05.html"><img src="img/btn-h.png"></a></p>
+              <p class="mt10 sp_taC"><a href="https://www.suntory-kenko.com/contents/ad/40/lst/omg/id_a_2/" target="_blank" 
+><img src="img/btn-o.png"></a></p>
+              <div class="h_tbl">
+                <p class="ranktxtbox">・サントリーの開発・販売商品<br>
+                  ・【アマゾン】オメガ脂肪酸サプリ売れ筋ランキング4位</p>
+              </div>
+            </div>
+          </div>
+          <div class="h1-tbl-area cFix">
+              <figure class="t-c"><img src="img/thum/thum01.jpg"></figure>
+            <div class="h1-tbl-right">
+              <h4><img src="img/rank-icon-2.png" style="margin-bottom:5px;">　プラズマローゲンS</h4>
+              <p class="mt10 sp_taC"><a href="i01.html"><img src="img/btn-h.png"></a></p>
+              <p class="mt10 sp_taC"><a href="https://bandscorp.jp/lp/plasmalogen-s/1/pc/?argument=uefSmbeK&dmai=a5e2fa1f5ba1d6" target="_blank" 
+><img src="img/btn-o.png"></a></p>
+              <div class="h_tbl">
+                <p class="ranktxtbox">・世界初！話題のホタテ由来プラズマローゲンサプリ（一般社団法人プラズマローゲンサプリ研究会認証品）<br>
+                  ・全国500以上の医療機関で導入されている<br>
+                  ・テレビ・雑誌で引っ張りだこ！プラズマローゲンのパイオニア藤野医師との共同開発サプリ</p>
+              </div>
+            </div>
+          </div>
+          <div class="h1-tbl-area cFix">
+              <figure class="t-c"><img src="img/thum/thum02.jpg"></figure>
+            <div class="h1-tbl-right">
+              <h4><img src="img/rank-icon-3.png" style="margin-bottom:5px;">　プラズマローゲンサプリメント</h4>
+              <p class="mt10 sp_taC"><a href="i02.html"><img src="img/btn-h.png"></a></p>
+              <p class="mt10 sp_taC"><a href="https://www.suppli-tm.com/lp/pls_01/" target="_blank" 
+><img src="img/btn-o.png"></a></p>
+              <div class="h_tbl">
+                <p class="ranktxtbox">・話題のホタテ由来プラズマローゲンサプリ<br>
+                  ・テレビ「夢の扉+」で紹介されたものと同品質のプラズマローゲン採用（一般社団法人プラズマローゲン研究所認証品）<br>
+                  ・プラズマローゲンのパイオニア藤野医師グループの特許に基づいた製法 </p>
+              </div>
+            </div>
+          </div>
+          <div class=" review review-info">
+            <p>認知度ランキング1位はサントリーが発売する「オメガエイド」でした。<br>
+              販売元が<span class="marker">食品一般を手広く手掛ける大企業</span>ということもあり知名度・認知度ともに高い商品です。<br>
+              とくにオメガエイドに含まれる「アラキドン酸」は、30年に渡りオメガ脂肪酸の研究を重ねてきたサントリーが抽出に成功した成分で、記憶力や学習能力に関わる成分として注目を集めています。<br>
+              2位の「プラズマローゲンS」、3位の「プラズマローゲンサプリメント」は、世界的な論文に掲載された実績をもつ成分（ホタテ由来のプラズマローゲン）を配合したサプリです。<br>
+              認知症緩和に関するエビデンスも豊富で、その実力からテレビ・雑誌などのメディアに多数取り上げられています。<br>
+              2位、3位どちらの商品も藤野医師が臨床試験の代表を務める一般社団法人プラズマローゲン研究会の認証品なので、成分の質・量などは同程度だと言われています。<br>
+              ただ、やはり第1人者である藤野先生プロデュース品であることを考慮して「プラズマローゲンS」を認知度2位に推薦しました。<br>
+              オメガエイドは生活習慣予防を視野に入れた認知症予防・対策に、プラズマローゲンSやプラズマローゲンサプリメントは軽度から高度認知症患者の症状緩和が確認されていることから、認知症緩和・予防・対策を徹底的に行いたい方におすすめです。</p>
+          </div>
+        </section>
+      </div>
+    </div>
+    <!--#include virtual="inc/side.html" -->
+    <!--#include virtual="inc/drw.html" -->
+     </div>
+</div>
+<!--#include virtual="inc/footer.html" -->
+
+</body>
+</html>

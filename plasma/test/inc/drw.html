@@ -1,0 +1,86 @@
+<!--ドロワーメニュー-->
+
+<div class="navToggle">
+    <span></span><span></span><span></span>
+</div>
+<nav class="globalMenuSp">
+
+
+    <h3 class="open_h3 btn-5"><img class="navi_icon03" src="img/navi_icon03.png">比べてみました</h3>
+    <ul class="ul_open open-5" style="display: none;">
+            <li><a href="h1.html">効果部門</a></li>
+            <li><a href="h2.html">コスパ部門</a></li>
+            <li><a href="h3.html">配合量部門</a></li>
+            <li><a href="h4.html">品質部門</a></li>
+            <li><a href="h5.html">認知度部門</a></li>
+	</ul>
+	
+	<h3 class="open_h3 btn-5"><img class="navi_icon02" src="img/navi_icon02.png">基礎知識</h3>
+    <ul class="ul_open open-5" style="display: none;">
+            <li><a href="k1.html">高齢社会において問題になる認知症・患者の増加</a></li>
+            <li><a href="k2.html">認知症の原因と予防</a></li>
+            <li><a href="k3.html">自分の親は大丈夫？</a></li>
+			<li><a href="k4.html">効果的な栄養素とサプリメント</a></li>
+			<li><a href="k5.html">注目されるプラズマローゲンとは？</a></li>
+	</ul>
+	
+    <h3 class="open_h3 btn-5 active"><img class="navi_icon01" src="img/navi_icon01.png">商品一覧</h3>
+    <ul class="ul_open open-5" style="display: block;">
+            <li><a href="i01.html">プラズマローゲンS</a></li>
+            <li><a href="i02.html">プラズマローゲンサプリメント</a></li>
+            <li><a href="i03.html">プラズマローゲンEX</a></li>
+            <li><a href="i04.html">プラズマローゲン＆レッドDHA</a></li>
+            <li><a href="i05.html">オメガエイド</a></li>
+			<li><a href="i06.html">CS19ペプチド</a></li>
+			<li><a href="i07.html">プラズマローゲンONE</a></li>
+			<li><a href="i08.html">きなり</a></li>
+	</ul>
+</nav>
+<script>
+    $(function() {
+        $('.navToggle').click(function() {
+            $(this).toggleClass('active');
+
+            if ($(this).hasClass('active')) {
+                $('.globalMenuSp').addClass('active');
+            } else {
+                $('.globalMenuSp').removeClass('active');
+            }
+        });
+    });
+</script>
+<script>
+    $(function() {
+
+        function demo01() {
+            $(this).next().slideToggle(300);
+        }
+
+        $(".simple .toggle").click(demo01);
+
+
+
+        function demo02() {
+            $(this).toggleClass("active").next().slideToggle(300);
+        }
+
+        $(".switch .toggle").click(demo02);
+
+    });
+</script>
+<script>
+    function demo01() {
+        $(this).next().slideToggle(300);
+    }
+
+    $(".toggle").click(demo01);</script>
+<script>
+    $('.open-5').each(function(){
+        $(this).css("height",$(this).height()+"px");
+    });
+    $('.btn-5').click(function () {
+        $(this).next('.open-5').slideToggle('slow').siblings('.open-5').slideUp('slow');
+        $(this).siblings('.btn-5').removeClass('active');
+        $(this).toggleClass('active');
+    });
+</script>

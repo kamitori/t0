@@ -1,0 +1,113 @@
+<div id="footer">
+    <div class="pagetop">
+        <a href="#top">PAGE<br>TOP</a>
+    </div>
+    <footer>
+        <p class="footer">
+            運営会社 <a href="https://www.optimizer.co.jp/%e4%bc%9a%e7%a4%be%e6%83%85%e5%a0%b1/%e4%bc%9a%e7%a4%be%e6%a6%82%e8%a6%81/" target="_blank">株式会社オプティマイザー</a><br> 所在地 〒107-0051<br> 東京都港区元赤坂1-1-7 オリエント赤坂モートサイドビル2F
+            <br> 電話番号 03-4405-9595（代表）
+        </p>
+    </footer>
+</div>
+<!--フォームの折り畳み-->
+<script>
+    $(function() {
+        $('.formBtn').click(function() {
+            $('.open').stop().fadeToggle(500);
+        });
+    });
+    var dispW = $(window).width();
+    if (dispW <= 800) {
+        var target = document.getElementsByClassName("open");
+        var target2 = document.getElementsByClassName("formBtn");
+        for (var i = 0; i < target.length; i++) {
+            target[i].style.display = "none";
+            target2[1].style.display = "none";
+        }
+    }
+
+    function btnClick() {
+        if (target2[0].style.display == "none") {
+            target2[1].style.display = "none";
+            target2[0].style.display = "block";
+        } else {
+            target2[0].style.display = "none";
+            target2[1].style.display = "block";
+        }
+    }
+</script>
+<!--
+<script type="text/ecmascript">
+    var dispW = $(window).width();
+    if (dispW <= 800) {
+        var target = document.getElementsByClassName("open");
+        var target2 = document.getElementsByClassName( "formBtn" );
+        for(var i = 0; i < target.length; i++) {
+            target[i].style.display = "none";
+            target2[1].style.display = "none";
+        }
+    }
+    function btnClick() {
+        if (target[0].style.display == "none") {
+            for (var i=0; i<target.length; i++) {
+                target[i].style.display = "block";
+                target2[0].style.display = "none";
+                target2[1].style.display = "block";
+            }
+        } else {
+            for (var i=0; i<target.length; i++) {
+                target[i].style.display = "none";
+                target2[0].style.display = "block";
+                target2[1].style.display = "none";
+            }
+        }
+    }
+</script>
+-->
+<!-- スムーズスクロール -->
+<script>
+    $(function() {
+        //#で始まるアンカーをクリックした場合に処理
+        $('a[href^="#"]').click(function() {
+            //スクロールの速度
+            var speed = 400; //ミリ秒
+            //アンカーの値取得
+            var href = $(this).attr("href");
+            //移動先を取得
+            var target = $(href == "#" || href == "" ? 'html' : href);
+            //移動先を数値で取得
+            var position = target.offset().top;
+            //スムーススクロール
+            $("body,html").animate({
+                scrollTop: position
+            }, speed, "swing");
+
+            return false;
+        });
+    });
+</script>
+<!-- //スムーズスクロール -->
+<!--PAGETOP-->
+<script>
+    if (!navigator.userAgent.match(/(iPad)/)) {
+        $(document).ready(function() {
+            var pagetop = $(".pagetop");
+
+            $(window).scroll(function() {
+                if ($(this).scrollTop() > 100) {
+                    pagetop.fadeIn();
+                } else {
+                    pagetop.fadeOut();
+                }
+            });
+
+            pagetop.click(function() {
+                $("body,html").animate({
+                    scrollTop: 0
+                }, 500);
+                return false;
+            });
+        });
+    }
+</script>
+<!--//PAGETOP-->

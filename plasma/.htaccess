@@ -1,0 +1,6 @@
+Options +Includes
+AddHandler server-parsed html
+
+<Files *>
+  Header set X-Robots-Tag "noindex, nofollow"
+</Files>
