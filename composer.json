@@ -1,0 +1,16 @@
+{
+    "name": "nmtri33/t0",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Nmtri33\\T0\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "e"
+        }
+    ],
+    "minimum-stability": "RC",
+    "require": {}
+}
